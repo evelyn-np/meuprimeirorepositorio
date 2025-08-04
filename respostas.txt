@@ -1,0 +1,5 @@
+1. Alternativa A
+2. Alternativa A
+3. Eu faria repositório e depois conectaria ao GitHub para que todos do grupo possam trabalhar juntos.
+4. Alternativa A
+5. O Git ajuda com o trabalho em equipe, permitindo que cada pessoa ajude em partes diferentes do projeto sem mexer no código.
